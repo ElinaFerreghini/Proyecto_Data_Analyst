@@ -164,5 +164,11 @@ un 2.5%? un 3%?. Veamos qué cosas podemos hacer para lograrlo:
  con los csv que elegí luego de realizar el análisis exploratorio (incluyen datos de servicios móviles, info de indec, etc). También hay un archivo de información 
  general que me pareció muy interesante en el cual me basé para redactar el presente informe. Un placer que hayan llegado hasta aquí! 
  Desde ya muchas gracias por su atención!!!!!
+ 
+ REFERENCIAS:
+     
+ https://datosabiertos.enacom.gob.ar/home
+     
+ https://www.indec.gob.ar/
 
   
